@@ -1,0 +1,12 @@
+{
+  "name": "console-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consoleCustom.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccadori/console-custom.git"
+  },
+  "author": "Carlos Cadori",
+  "license": "MIT"
+}
