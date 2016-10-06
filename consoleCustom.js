@@ -1,3 +1,5 @@
+const end = "\x1b[30m"
+
 class ConsoleCustom
 {
     static log(text)
@@ -8,19 +10,19 @@ class ConsoleCustom
     static success(text)
     {
         let color = "\x1b[32m"
-        console.log(color + text)
+        console.log(color + text + end)
     }
 
     static error(text)
     {
         let color = "\x1b[31m"
-        console.log(color + text)
+        console.log(color + text + end)
     } 
 
     static warning(text)
     {
         let color = "\x1b[33m"
-        console.log(color + text)
+        console.log(color + text + end)
     }
 }
 
