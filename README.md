@@ -1,4 +1,4 @@
-ConsoleCustom is just a console with some different colors.
+ConsoleCustom is a lightweight package to make your console colorful!
 
 ### Examples
 
