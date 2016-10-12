@@ -1,3 +1,5 @@
+'use strict'
+
 const end = "\x1b[39m"
 
 class ConsoleCustom
